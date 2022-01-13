@@ -23,11 +23,31 @@ This repository includes an exported sql database, that can easily be imported i
 3. deathmatch\resources\mysql\mysql.lua  -- Set both connections to your hosts information.
 4. Should be done!
 
+## Is this repository going to get updated?
+
+I, Solid, am not planning to continue work on this repository as of now, but I would like to see the various server owners who will download this gamemode to try and contribute bit by bit.
+Even translating something would be nice. :)
+
 ## QnA | Additional information
 
 <details><summary>Q: I gave myself admin, but can't log-in anymore?</summary>
 <p>A: Your MTA Serial code needs to be in the serialwhitelist table in the database. It's an extra layer of security in case a player gets an admins profile!</p>
 </details>
 <details><summary>Q: Are there any mods placed in this gamemode?</summary>
-<p>A: Yes, almost every vehicle has been modified in this gamemode. You can see a full list of them in this excel spreadsheet I had: [Gamemode excel spreadsheet](https://docs.google.com/spreadsheets/d/17WtGZWJ-rwZzZzMzWKVC8dCVBawsvnhLIc4JaI9tRoQ/edit?usp=sharing)</p>
+<p>A: Yes, almost every vehicle has been modified in this gamemode. You can see a full list of them in this excel spreadsheet I had: https://docs.google.com/spreadsheets/d/17WtGZWJ-rwZzZzMzWKVC8dCVBawsvnhLIc4JaI9tRoQ/edit?usp=sharing</p>
 </details>
+<details><summary>Q: Can I find out all of the commands in the server anywhere?</summary>
+<p>A: I had the plan of documenting every single one of them, but I sadly couldn't finish it, but you can see a portion of them on the gamemodes excel spreadsheet: https://docs.google.com/spreadsheets/d/17WtGZWJ-rwZzZzMzWKVC8dCVBawsvnhLIc4JaI9tRoQ/edit?usp=sharing</p>
+</details>
+<details><summary>Q: Is the economy already good in the gamemode?</summary>
+<p>A: The majority has been already done and checked. A few small things like NPC store prices need to be checked. Stuff like cars aren't included in the gamemode, so you'll have to make sure yourself that the vehicles players can purchase aren't overpriced or too cheap. Most of the economics have been documented on the excel: https://docs.google.com/spreadsheets/d/17WtGZWJ-rwZzZzMzWKVC8dCVBawsvnhLIc4JaI9tRoQ/edit?usp=sharing</p>
+</details>
+<details><summary>Q: What are the logos in the gamemode already?</summary>
+<p>A: Most of the logos and images in the gamemode are custom-made by one of the users in the old PowerPlay community. These icons can freely be changed out to your own, just don't change the names.</p>
+</details>
+
+## Credits
+
+Base Owl gaming credits go to the @OwlGamingCommunity.
+
+Big thanks go to: SanityKiller#4435 & Jurmaize#7464, old PowerPlay Latvian community for helping me test the gamemodes scripts, creating some of the logos in the gamemode and other small things.
