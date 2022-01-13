@@ -1,0 +1,1 @@
+Cops can use command /searchtrailer to check the trailer for illegal items. You must be near the trucks cabin in order to search!

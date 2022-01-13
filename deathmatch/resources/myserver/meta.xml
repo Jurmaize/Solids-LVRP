@@ -1,0 +1,8 @@
+<meta>
+     <info author="Solid" type="script" name="Solids Sick trucking script!" description="This is my amazing trucking script." date="01/12/2021" />
+     <script src="pos.luac" type="client" />
+     <script src="s_spawnveh.lua" type="server" />
+     <script src="c_spawnveh.lua" type="client" />
+
+
+</meta>

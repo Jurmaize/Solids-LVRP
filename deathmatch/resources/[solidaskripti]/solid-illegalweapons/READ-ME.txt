@@ -1,0 +1,24 @@
+Thanks for getting this script!
+
+How to use it:
+1. Take all the images from solid-illegalweapons/images where there is a number.png, for example: 285.png.
+2. Place all the numbered images in item-system/images.
+3. Edit item-system/meta.xml and add new images as files.
+4. Edit item-system/g_items.lua and add all the new items from solid-illegalweapons/config.lua. At the bottom I pasted them all there.
+5. Edit solid-illegalweapons/config.lua to your liking. All the variables and things have explanations next to them.
+6. Run script.
+
+How to cook rocks into iron bars:
+1. Place down oven item. Default item ID: 244
+2. Place rocks in oven.
+3. Execute command /cookore while being near oven.
+4. Wait
+5. Take out iron bars.
+
+How to craft weapons:
+1. Get iron bars from oven.
+2. Place down workbench. Default item ID: 242
+3. Execute command /craftweapons while being near oven.
+4. Press on what to craft.
+5. Wait.
+6. You get items in your inventory.

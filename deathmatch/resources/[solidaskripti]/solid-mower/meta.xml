@@ -1,0 +1,9 @@
+<meta>
+     <info author="Solid" type="script" name="Solids Epic Mower script!" description="This is a mowing script for glen park." date="23/11/2021" />
+     
+     <script src="config_mower.lua" type="shared"/>
+     <script src="s_mower.lua" type="server" />
+     <script src="c_mower.lua" type="client" />
+
+     <file src="blips/lawnmower.png" />
+</meta>

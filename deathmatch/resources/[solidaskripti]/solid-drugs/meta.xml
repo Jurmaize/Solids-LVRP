@@ -1,0 +1,63 @@
+<meta>
+     <info author="Solid" type="script" name="Solids Drug Growing system!" description="This script is meant for the OWLGaming base, so illegal faction roleplayers can grow drugs in a more interesting way." date="18/12/2021" discord="Solid#3859" contactEmail="lopexsw@gmail.com" />
+
+     <script src="drugconfig.lua" type="shared" />
+
+     <script src="c_base.lua" type="client" />
+     <script src="s_base.lua" type="server" />
+
+     <script src="c_functions.lua" type="client" />
+     <script src="s_functions.lua" type="server" />
+
+     <script src="c_takedrugs.lua" type="client" />
+     <script src="s_takedrugs.lua" type="server" />
+
+     <script src="c_planting.lua" type="client" />
+     <script src="s_planting.lua" type="server" />
+     <script src="s_drug.lua" type="server" />
+
+     <script src="c_weed.lua" type="client" />
+     <script src="s_weed.lua" type="server" />
+
+     <script src="c_coca.lua" type="client" />
+     <script src="s_coca.lua" type="server" />
+     <script src="c_cocaine.lua" type="client" />
+     <script src="s_cocaine.lua" type="server" />
+
+     <script src="c_poppy.lua" type="client" />
+     <script src="s_poppy.lua" type="server" />
+     <script src="c_heroin.lua" type="client" />
+     <script src="s_heroin.lua" type="server" />
+
+     <file src="images/weed1.png" />
+     <file src="images/weed2.png" />
+     <file src="images/weed3.png" />
+     <file src="images/weed4.png" />
+     <file src="images/weed5.png" />
+     <file src="images/water1.png" />
+     <file src="images/water2.png" />
+     <file src="images/water3.png" />
+     <file src="images/water4.png" />
+     <file src="images/harvest.png" />
+
+     <file src="images/cocaaugs.png" />
+     <file src="images/barrel1.png" />
+     <file src="images/gas.png" />
+     <file src="images/sulfuric.png" />
+     <file src="images/cement.png" />
+     <file src="images/cocaleaves.png" />
+     <file src="images/water.png" />
+     <file src="images/crushedleaves.png" />
+
+     <file src="images/poppy1.png"/>
+     <file src="images/poppy2.png"/>
+     <file src="images/poppy3.png"/>
+     <file src="images/poppy4.png"/>
+     <file src="images/poppy.png"/>
+     <file src="images/rust_remover.png"/>
+     <file src="images/aspirin.png"/>
+     <file src="images/aspirin_crushed.png"/>
+     <file src="images/cough_syrup.png"/>
+
+     <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+</meta>

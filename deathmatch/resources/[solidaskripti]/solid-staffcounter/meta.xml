@@ -1,0 +1,7 @@
+<meta>
+     <info author="Solid" type="script" name="Solids staff counter!" description="This script is meant to be used to show staff members online at the bottom." date="13/01/2022" />
+     
+     <script src="config_staffcount.lua" type="shared"/>
+     <script src="s_staffcount.lua" type="server" />
+     <script src="c_staffcount.lua" type="client" />
+</meta>

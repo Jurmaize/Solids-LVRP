@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (grassplant) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3409" scale="0.5" doublesided="false" collisions="true" frozen="false" posX="2447.2002" posY="-1669.7998" posZ="12.3" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Infernus) (1)" sirens="false" landingGearDown="false" plate="ZNX9 FK1" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="411" collisions="true" posX="2061.2" posY="37.8" posZ="27.1" rotX="0" rotY="0" rotZ="0" color="34,52,87,245,245,245,0,0,0,0,0,0"></vehicle>
+    <removeWorldObject id="removeWorldObject (CE_archbridge) (2)" radius="33.055367" interior="-1" model="12992" lodModel="13395" posX="2102.4297" posY="41.65625" posZ="25.82813" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (cunte_roads50) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="12887" scale="1" doublesided="false" collisions="true" posX="2067.6001" posY="40.9" posZ="29.5" rotX="0" rotY="0" rotZ="0"></object>
+    <removeWorldObject id="removeWorldObject (cunte_roads50) (1)" radius="148.79266" interior="-1" model="12887" lodModel="13274" posX="2067.5781" posY="40.86719" posZ="29.29688" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+</map>

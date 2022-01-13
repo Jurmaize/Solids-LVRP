@@ -1,0 +1,44 @@
+{"action":27,"origin":"ac1","date":"2022-01-13T09:34:56","phones":[],"objects":[],"characters":[],"vehicles":[],"interiors":[],"accounts":[1],"content":"Connected from 192.168.8.102 - 018FD49521BD034DD2BE1FFC72AA4B43","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T09:35:04","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[1],"content":"Spawned","factions":[]}
+{"action":6,"origin":"ch1","date":"2022-01-13T11:04:45","phones":[],"objects":[],"characters":[],"vehicles":[6],"interiors":[],"accounts":[],"content":"getveh","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T11:18:44","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T11:18:53","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T11:18:54","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"AHEAL 100","factions":[]}
+{"action":6,"origin":"ch1","date":"2022-01-13T11:18:58","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"FUELVEH","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:31","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Neapstrādāts Dzelzs.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:31","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Neapstrādāts Dzelzs.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:32","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Aspirīna pulveris.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:32","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Aspirīna pulveris.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:32","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Aspirīna pulveris.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:32","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Magoņu sēklas.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:32","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Magoņu sēklas.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:33","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Heroīns.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:33","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja LSZD Laikraksts.","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:25:33","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Heroīns.","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T11:25:44","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Mobīlais telefons 1","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T11:26:00","phones":[],"objects":[],"characters":[0],"vehicles":[],"interiors":[],"accounts":[1],"content":"Went to character selection","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T11:26:11","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[1],"content":"Created","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T11:26:11","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[1],"content":"Spawned","factions":[]}
+{"action":40,"origin":"ch2","date":"2022-01-13T11:26:13","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"Cav Cav izvelk ārā  Mobīlais telefons.","factions":[]}
+{"action":40,"origin":"ch2","date":"2022-01-13T11:26:23","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"Cav Cav noliek  Mobīlais telefons.","factions":[]}
+{"action":40,"origin":"ch2","date":"2022-01-13T11:26:28","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"Cav Cav izvelk ārā  Mobīlais telefons.","factions":[]}
+{"action":40,"origin":"ch2","date":"2022-01-13T11:26:52","phones":[],"objects":[],"characters":[2],"vehicles":[],"interiors":[],"accounts":[],"content":"Cav Cav noliek  Mobīlais telefons.","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T11:27:30","phones":[],"objects":[],"characters":[0],"vehicles":[],"interiors":[],"accounts":[1],"content":"Went to character selection","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T11:27:35","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[1],"content":"Spawned","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T11:27:40","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Mobīlais telefons.","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T11:58:30","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Kokaīns 1","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:04:35","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 1","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:20:21","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 1","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:20:24","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 10","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:20:57","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 1","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:21:00","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 50","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:21:22","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"SETARMOR 0","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T12:21:58","phones":[],"objects":[],"characters":[0],"vehicles":[],"interiors":[],"accounts":[1],"content":"Went to character selection","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T12:22:03","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[1],"content":"Spawned","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:22:15","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 1","factions":[]}
+{"action":40,"origin":"ch1","date":"2022-01-13T12:25:51","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"Oscar Bozo iznīcināja Kokaīns.","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:26:39","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"SETARMOR 0","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:29:44","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 30","factions":[]}
+{"action":4,"origin":"ch1","date":"2022-01-13T12:29:44","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[],"content":"GIVEITEM Heroīns 30","factions":[]}
+{"action":31,"origin":"ch1","date":"2022-01-13T13:03:00","phones":[],"objects":[],"characters":[1],"vehicles":[3],"interiors":[],"accounts":[],"content":"STARTED ENGINE","factions":[]}
+{"action":27,"origin":"ac1","date":"2022-01-13T14:20:43","phones":[],"objects":[],"characters":[1],"vehicles":[],"interiors":[],"accounts":[1],"content":"Disconnected (Quit) (Name: Oscar_Bozo)","factions":[]}

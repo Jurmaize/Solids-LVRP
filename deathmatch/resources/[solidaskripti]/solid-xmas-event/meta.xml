@@ -1,0 +1,9 @@
+<meta>
+     <info author="Solid" type="script" name="Solids xmas event script!" description="This is a little christmas event script for MTA!" date="01/12/2021" />
+
+     <script src="config_solidxmasevent.lua" type="shared"/>
+     <script src="c_solidxmasevent.lua" type="client"/>
+     <script src="s_solidxmasevent.lua" type="server"/>
+
+     <file src="blips/christmastree.png" />
+</meta>

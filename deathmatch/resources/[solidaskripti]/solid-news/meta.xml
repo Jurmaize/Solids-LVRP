@@ -1,0 +1,13 @@
+<meta>
+     <info author="Solid" type="script" name="Solids IC and OOC news script!" description="This script is meant to give players locations to be able to read IC and OOC news that are going on in the server." date="01/01/2022" />
+     
+     <script src="config_news.lua" type="shared"/>
+     <script src="s_news.lua" type="server" />
+     <script src="c_news.lua" type="client" />
+
+     <file src="images/news.png" />
+     <file src="images/lszd.png" />
+     <file src="images/playhard.png" />
+
+     <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+</meta>

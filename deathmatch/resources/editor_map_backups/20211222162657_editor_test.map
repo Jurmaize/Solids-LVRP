@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (grassplant) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="3409" scale="0.5" doublesided="false" collisions="true" frozen="false" posX="2447.2002" posY="-1669.7998" posZ="12.3" rotX="0" rotY="0" rotZ="0"></object>
+    <vehicle id="vehicle (Infernus) (1)" sirens="false" landingGearDown="false" plate="ZNX9 FK1" paintjob="3" dimension="0" interior="0" health="1000" alpha="255" model="411" collisions="true" posX="2061.2" posY="37.8" posZ="26.5" rotX="0" rotY="0" rotZ="0" color="34,52,87,245,245,245,0,0,0,0,0,0"></vehicle>
+</map>

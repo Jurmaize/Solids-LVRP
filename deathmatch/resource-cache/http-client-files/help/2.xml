@@ -1,0 +1,10 @@
+<info>
+Uzspied F8, lai atvērtu konsoli
+Pavienam ieraksti šīs komandas konsolē:
+chatfont = 2
+chattextcss = 1
+chatwidth = 100
+chatlines = 15
+chatbackgroundcss = 1
+</info>
+

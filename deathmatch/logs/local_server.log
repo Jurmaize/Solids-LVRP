@@ -1,0 +1,35 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..erver/mods/deathmatch/logs/local_server.log
+= Maximum players  : 32
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-11-07 19:46:47] Resources: 195 loaded, 0 failed
+[2021-11-07 19:46:47] Starting resources...
+[2021-11-07 19:46:47] Server minclientversion is now 1.5.6-9.16361
+[2021-11-07 19:46:47] Server minclientversion is now 1.5.6-9.16362
+[2021-11-07 19:46:47] Gamemode 'play' started.
+[2021-11-07 19:46:48] Initiating changemode from 'play' to 'myserver'
+[2021-11-07 19:46:48] ERROR: Unable to start resource myserver; Start cancelled by script
+[2021-11-07 19:46:48] Server started and is ready to accept connections!
+[2021-11-07 19:46:48] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-11-07 19:46:48] Type 'help' for a list of commands.
+[2021-11-07 19:46:48] Stopping play
+[2021-11-07 19:46:48] Server minclientversion is now 1.5.6-9.16361
+[2021-11-07 19:46:48] Stopping freeroam
+[2021-11-07 19:46:48] Starting myserver
+[2021-11-07 19:46:48] Gamemode 'My Server' started.
+[2021-11-07 19:46:48] startResource: Resource 'myserver' started
+[2021-11-07 19:46:48] CONNECT: Solid connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21024.0)
+[2021-11-07 19:46:48] JOIN: Solid joined the game (IP: 127.0.0.1)
+[2021-11-07 19:51:10] QUIT: Solid left the game [Quit]
+[2021-11-07 19:51:11] Server stopped!
+[2021-11-07 19:51:11] Stopping resources.......................
+[2021-11-07 19:51:11] Closing SQLite3 database

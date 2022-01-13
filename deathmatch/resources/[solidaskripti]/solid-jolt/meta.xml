@@ -1,0 +1,11 @@
+<meta>
+     <info author="Solid" type="script" name="Solids jolt scooter script!" description="This script is made for players to be able to rent out little scooters to get around city with!" date="31/12/2021" />
+     
+     <script src="config_joltskuteris.lua" type="shared"/>
+     <script src="s_joltskuteris.lua" type="server" />
+     <script src="c_joltskuteris.lua" type="client" />
+
+     <file src="images/jolt.png" />
+     <file src="images/izirets.png" />
+     <file src="images/navizirets.png" />
+</meta>

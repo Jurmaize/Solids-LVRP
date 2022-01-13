@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="http://mta/global/web/css/bootstrap.darkly.css">
+        <link rel="stylesheet" href="http://mta/global/web/css/open-iconic-bootstrap.css">
+        <link rel="stylesheet" href="http://mta/global/web/css/animate.css">
+        <link rel="stylesheet" href="http://mta/local/advertisements.css">
+        <script src="http://mta/global/web/js/jquery.min.js"></script>
+        <script src="http://mta/global/web/js/bootstrap.min.js"></script>
+        <script src="http://mta/global/web/js/vue.min.js"></script>
+    </head>
+    <body style="background: none; overflow: none;">
+        <div id="app">
+            <div class="row justify-content-center" style="margin-top: 200px">
+                <div class="col-sm-3">
+                    <div class="card card-primary">
+                        <div class="card-header bg-primary">
+                            Bid On {{ fullVehicleName }}
+
+                            <button type="button" class="close pull-right" @click="close()">
+                                <span>&times;</span>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p v-show="error" class="text-danger">
+                                {{ error }}
+                            </p>
+
+                            <p v-show="auctionData.current_bidder_id === false">
+                                Vēl nav likmju. Tu vari uzsākt izsoli uzliekot pirmo likmi.
+                            </p>
+
+                            <p v-show="auctionData.current_bidder_id !== false">
+                                Šobrīdējā likme ir ${{ auctionData.current_bid }}.
+                                Tev jāuzliek vismaz ${{ minimumBid }} liels solījums.
+                            </p>
+
+                            <form class="form-inline mb-3" @submit.prevent="">
+                                <div class="form-group mr-3">
+                                    <input type="text" v-model="bid" class="form-control">
+                                </div>
+
+                                <button class="btn btn-primary" @click="placeBid()">Place Bid</button>
+                            </form>
+
+
+                            <p>
+                                Vēl ir iespēja izpirkt izsoli par ${{ auctionData.buyout }}.
+                            </p>
+                            <button class="btn btn-info" @click="buyout()">Izpirkt izsoli pa ${{ auctionData.buyout }}.</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript">
+            var vm = new Vue({
+                el: '#app',
+                data: {
+                    bid: null,
+                    minimumBid: null,
+                    auctionData: {},
+                    error: null,
+                },
+                computed: {
+                    fullVehicleName: function () {
+                        return this.auctionData.year + ' ' + this.auctionData.brand + ' ' + this.auctionData.model;
+                    }
+                },
+                methods: {
+                    init: function (data) {
+                        this.auctionData = JSON.parse(atob(data));
+
+                        this.bid = parseInt(this.auctionData.current_bid);
+
+                        if (this.auctionData.current_bidder_id !== false) {
+                            this.bid += parseInt(this.auctionData.minimum_increase);
+                        }
+                        this.minimumBid = this.bid;
+                    },
+                    placeBid: function () {
+                        if (parseInt(this.bid) < parseInt(this.minimumBid)) {
+                            this.error = "Likmei ir jābūt lielākai par minimālo likni, kas ir $" + this.minimumBid + ".";
+                            return;
+                        }
+
+                        if (parseInt(this.bid) > parseInt(this.auctionData.buyout)) {
+                            this.error = "Tu nevari likt lielāku likmi par izpirkšanas cenu, nospied izpirkt!";
+                            return;
+                        }
+
+                        mta.triggerEvent("floor-bid:submit", '[' + JSON.stringify({bid: this.bid}) + ']');
+                    },
+                    buyout: function () {
+                        mta.triggerEvent("floor-bid:buyout");
+                    },
+                    close: function () {
+                        mta.triggerEvent("floor-bid:cancel");
+                    }
+                }
+            });
+        </script>
+    </body>
+</html>

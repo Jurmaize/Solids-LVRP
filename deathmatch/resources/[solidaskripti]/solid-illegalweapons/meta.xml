@@ -1,0 +1,32 @@
+<meta>
+     <info author="Solid" type="script" name="Solids Epic Weapon Making System!" description="This script is made so casual players have an extra job to earn money and illegal factions have a way of making weapons" date="12/12/2021" discord="Solid#3859" contactEmail="lopexsw@gmail.com" />
+
+     <script src="s_rockcollecting.lua" type="server" />
+     <script src="c_rockcollecting.lua" type="client" />
+
+     <script src="config.lua" type="shared" />
+
+     <script src="c_rockpile.lua" type="client" />
+     <script src="s_rockpile.lua" type="server" />
+
+     <script src="c_guncrafting.lua" type="client" />
+     <script src="s_guncrafting.lua" type="server" />
+
+     <file src="images/285.png" />
+     <file src="images/286.png" />
+     <file src="images/287.png" />
+     <file src="images/288.png" />
+     <file src="images/289.png" />
+     <file src="images/290.png" />
+     <file src="images/291.png" />
+     <file src="images/292.png" />
+     <file src="images/293.png" />
+     <file src="images/wep1.png" />
+     <file src="images/wep2.png" />
+     <file src="images/wep3.png" />
+     <file src="images/wep4.png" />
+
+     <min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903" />
+
+
+</meta>

@@ -1,0 +1,46 @@
+﻿<content>
+Lomu Spēles Komandas!
+
+Powerplay serverī ir daudz lomu spēles komandas, bet šeit tiks izskaidrotas Jums galvenās, kas atvieglos un uzlabos Jūsu lomu spēles prasmes!
+
+/me - Ir visvairāk izmantotākā komanda serverī. /me tiek lietota, lai aprakstītu, kādas darbības Jūsu personāžs veic.
+
+Tātad, komanda "/me" ir domāta darbībām, ko attēlo Jūsu tēls. Kāpēc šī komanda ir vajadzīga? Tāpēc, ka spēlē nav pilnīgi visu darbību attēlošana redzamā veidā, kuru Jūs vēlētos attēlot, tāpēc ir izdomāta šāda komanda. Ar šo komandu Jūs varat attēlot jebkuru REDZAMU darbību. Piemēram - cigaretes paciņu izvilkšanu no kabatas un smēķēšanu, treniņu zālē – hanteļu cilāšanu vai sišanu pa boksa maisu, rokas spiediens - pirmajās tikšanās reizēs. 
+Vēl viena lieta, kas ir svarīga - detalizēti aprakstītas darbības. Proti, Jums ir jāapraksta detalizēti Jūsu darbība ko darīsiet. Ņemsim par piemēru - ieroča izvilkšana un notēmēšana uz upuri. Visdrīzāk, ka Jūs to aprakstītu šādi, ja esat jauniņais lomu spēlē - *Jānis Bērziņš izvelk ieroci un notēmē uz upuri.*. 
+Šāda "/me" komandas darbība ir pilnīgi aplama, nedetalizēta un savā veidā nepieņemama. Lai citiem spēlētājiem nebūtu pārpratumi, Jums būtu jāapraksta kā, cik ātri un kādas emocijas ir tajā brīdī, kad Jūsu tēls dara noteiktu darbību. Pareiza un detalizēta "/me" aprakstīta darbība būtu šāda - *Jānis Bērziņš izveidojot dusmīgu sejas izteiksmi, ieslidina labo roku aiz jakas, pēc kā saķerot ar labo roku ieroci, izvelk to ārā no jakas un paliekot kreiso roku zem ieroča, notēmē uz upuri ar to*. 
+Un tagad Jūs domāsiet - bet šis viss neielien visa čata
+iespējamā apjomā. Ir risinājums! Ja Jums nepietiek vietas, pie "/me" darbības, pašā teikuma beigās ielieciet trīspunkti (...) un uzspiežat ENTER(beidzot savu "/me" darbību) un tālāk uzrakstot "/do",
+izlaižat atstarpi un atkārtoti uzrakstot trīspunkti (...) TURPINAT rakstīt turpinājumu savam "/me", kuru vēlējāties uzrakstīt. Šāds ir risinājums, ja nav vietas Jūsu iztēlei "/me" čata atļaujamā apjomā.
+
+
+Ar komandu "/do" tiek attēlots pilnīgi viss kas ir redzams, saožams, sajūtam vai kādā citā veidā apzināms. Ar "/do" Jūs varat aprakstīt savu izskatu, smaku, kādas šobrīd ir Jūsu emocijas utt.
+Un vel viena lieta, kad "/do" tiek pielietots ir jautāšana par redzamo vai citā veidā apzināmo citam spēlētājam. Piemēram, jautāšana - cik vecs pēc izskata ir kāds spēlētājs, kāds ir viņa izskats,
+kādas ir traumas (ja ir ticis avārijā, vai kādā veidā guvis traumas), vai ir jūtams pulss (ja piemēram, tas tiek pārbaudīts) utt.
+________________________________________________
+
+/do Izdodas/Neizdodas pielietojums nav labs piemērs kvalitatīvam RolePlay
+
+Tā vietā labāk izmantot komandas /luck un /chance. 
+Izmantojot /luck Jums tiks iedots nejaušs skaitlis no 1-100, ar komandu /chance ievadiet savu nejaušo skaitli un noskaidrojiet kādas ir Jūsu iespējas veikt veiksmīgu/neveiksmīgu darbību.
+Piemērs:
+/luck 
+((OOC Veiksme)) John Example mēģina savu veiksmi no 1 līdz 100 un iegūst 15.
+Tālāk ar /me un /do veicam darbības un noskaidrojam cik veiksmīgi to izdarām.
+Piemērs:
+/do Bikšu labajā kabatā atrodas 10centu monēta.
+/me ieslidina labo roku bikšu kabatā un cenšas sataustīt monētu.
+Tālāk izmantojam /chance (skaitlis no /luck), lai uzzinātu vai darbība izdevās.
+/chance 15
+((OOC Iespēja ar 15%)) John Example’s mēģinājums neizdevās. 
+Vai  
+((OOC Iespēja ar 15%)) John Example’s mēģinājums izdevās. 
+Tālāk atkarībā no rezultāta turpinām lomuspēli.
+
+
+/b - Ir lokālais Ārpus Spēles čats ((Out Of Character)). Šī nav tā komanda, kas būtu jāizmanto bieži. Jūs varat to izmantot, lai uzdotu kādu jautājumu par kāda cita spēlētāja RolePlay. Šī nu noteikti nav
+īstā vieta, kur sūdzēties, ja kāds Jūs aplaupa, tāpēc saņemies un nečīksti. Šī nav arī īstā vieta, kur kādu aizskart vai pazemot, ja Jūs to darīsiet Jūs saņemsiet administratīvo cietumsodu.
+
+/report - Ar šo komandu ir iespējams nosūtīt ziņu administrācijai. Ja Jūs redziet, ka kāds pārkāpj servera noteikumus, tad droši ziņojiet par to administrācijai. Šo komandu varat arī izmantot, ja Jums ir radusies kāda problēma un mūsu administrācija palīdzēs Jums cik tas ir mūsu spēkos.
+
+/pm - Privātā vēstule kādam citam spēlētājam. Atceries šī ir OOC ((Out Of Character)) jeb 'Ārpus Tēla' sazināšanās, tāpēc lūdzu neveidojiet MG, jo administrācija šo čatu novēro ;)
+</content>

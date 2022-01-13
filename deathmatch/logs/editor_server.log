@@ -1,0 +1,1081 @@
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:22:57] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:23:02] Resources: 195 loaded, 0 failed
+[2021-11-28 10:23:02] Starting resources...
+[2021-11-28 10:23:02] Server minclientversion is now 1.5.7-9.19626
+[2021-11-28 10:23:03] Server started and is ready to accept connections!
+[2021-11-28 10:23:03] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-11-28 10:23:03] Type 'help' for a list of commands.
+[2021-11-28 10:23:03] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21024.1)
+[2021-11-28 10:23:04] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-11-28 10:23:06] DIAGNOSTIC: SolidShock #1002 HTTP server file mismatch! (editor_gui) previewelement.lua [CRC could not open file: Permission denied]
+[2021-11-28 10:24:43] QUIT: SolidShock left the game [Quit]
+[2021-11-28 10:24:44] Server stopped!
+[2021-11-28 10:24:44] Stopping resources..........
+[2021-11-28 10:24:44] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:24:46] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:24:47] Resources: 196 loaded, 0 failed
+[2021-11-28 10:24:47] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-11-28 10:24:47] Server stopped!
+[2021-11-28 10:24:47] Stopping resources...
+[2021-11-28 10:24:47] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:24:53] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:24:53] Resources: 196 loaded, 0 failed
+[2021-11-28 10:24:54] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-11-28 10:24:54] Server stopped!
+[2021-11-28 10:24:54] Stopping resources...
+[2021-11-28 10:24:54] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:24:56] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:24:57] Resources: 196 loaded, 0 failed
+[2021-11-28 10:24:57] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-11-28 10:24:57] Server stopped!
+[2021-11-28 10:24:57] Stopping resources...
+[2021-11-28 10:24:57] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:25:05] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:25:06] Resources: 196 loaded, 0 failed
+[2021-11-28 10:25:06] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-11-28 10:25:06] Server stopped!
+[2021-11-28 10:25:06] Stopping resources...
+[2021-11-28 10:25:06] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:25:56] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:25:57] Resources: 196 loaded, 0 failed
+[2021-11-28 10:25:57] Starting resources...
+[2021-11-28 10:25:57] Server minclientversion is now 1.5.7-9.19626
+[2021-11-28 10:25:58] Server started and is ready to accept connections!
+[2021-11-28 10:25:58] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-11-28 10:25:58] Type 'help' for a list of commands.
+[2021-11-28 10:25:58] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21024.1)
+[2021-11-28 10:25:59] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-11-28 10:30:03] Starting stealth
+[2021-11-28 10:30:03] startResource: Resource 'stealth' started
+[2021-11-28 10:30:22] QUIT: SolidShock left the game [Quit]
+[2021-11-28 10:30:22] Server stopped!
+[2021-11-28 10:30:22] Stopping resources..........
+[2021-11-28 10:30:22] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:33:45] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:33:46] Resources: 197 loaded, 0 failed
+[2021-11-28 10:33:46] Starting resources...
+[2021-11-28 10:33:46] Server minclientversion is now 1.5.7-9.19626
+[2021-11-28 10:33:47] Server started and is ready to accept connections!
+[2021-11-28 10:33:47] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-11-28 10:33:47] Type 'help' for a list of commands.
+[2021-11-28 10:33:47] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21024.1)
+[2021-11-28 10:33:48] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-11-28 10:40:23] start: Requested by SolidShock(guest)
+[2021-11-28 10:40:23] Starting toll
+[2021-11-28 10:40:50] QUIT: SolidShock left the game [Quit]
+[2021-11-28 10:40:50] Server stopped!
+[2021-11-28 10:40:51] Stopping resources...........
+[2021-11-28 10:40:51] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:40:51] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:40:52] Server stopped!
+[2021-11-28 10:40:52] Stopping resources...
+[2021-11-28 10:40:52] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:41:04] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:41:05] Resources: 197 loaded, 0 failed
+[2021-11-28 10:41:05] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-11-28 10:41:05] Server stopped!
+[2021-11-28 10:41:05] Stopping resources...
+[2021-11-28 10:41:05] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 10:41:22] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 10:41:23] Resources: 197 loaded, 0 failed
+[2021-11-28 10:41:23] Starting resources...
+[2021-11-28 10:41:23] Server minclientversion is now 1.5.7-9.19626
+[2021-11-28 10:41:23] Server started and is ready to accept connections!
+[2021-11-28 10:41:23] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-11-28 10:41:23] Type 'help' for a list of commands.
+[2021-11-28 10:41:23] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21024.1)
+[2021-11-28 10:41:24] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-11-28 10:41:41] start: Requested by SolidShock(guest)
+[2021-11-28 10:41:41] Starting toll
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:49: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:50: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:51: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:52: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:54: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:55: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:56: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:57: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:58: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:59: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:60: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:61: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:62: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:63: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:64: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:75: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:41:41] ERROR: toll\s_tollsystem.lua:113: exports: Call to non-running server resource (anticheat) [string "?"]
+[2021-11-28 10:44:24] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000065
+[2021-11-28 11:07:12] WARNING: edf\edf.lua:802: Bad argument @ 'getElementData' [Expected element at argument 1]
+[2021-11-28 11:07:12] ERROR: edf\edf.lua:884: Bad argument @ 'setElementData' [Expected element at argument 1]
+[2021-11-28 11:07:12] ERROR: editor_main\server\interface.lua:11: call: failed to call 'edf:edfSetElementPosition'
+[2021-11-28 11:07:12] WARNING: edf\edf.lua:802: Bad argument @ 'getElementData' [Expected element at argument 1]
+[2021-11-28 11:07:12] ERROR: edf\edf.lua:911: Bad argument @ 'setElementData' [Expected element at argument 1]
+[2021-11-28 11:07:12] ERROR: editor_main\server\interface.lua:11: call: failed to call 'edf:edfSetElementRotation'
+[2021-11-28 11:07:24] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000086
+[2021-11-28 11:10:25] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000088
+[2021-11-28 11:11:25] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000088
+[2021-11-28 11:12:25] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000088
+[2021-11-28 11:13:25] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000088
+[2021-11-28 11:14:25] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000088
+[2021-11-28 11:15:25] WARNING: editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00000088
+[2021-11-28 11:35:51] WARNING: editor_main\server\saveloadtest_server.lua:375: Invalid map base directory. Please enter a name with [brackets].
+[2021-11-28 11:36:41] QUIT: SolidShock left the game [Quit]
+[2021-11-28 11:36:42] Server stopped!
+[2021-11-28 11:36:42] Stopping resources...........
+[2021-11-28 11:36:42] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-11-28 11:42:51] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-11-28 11:42:52] Resources: 198 loaded, 0 failed
+[2021-11-28 11:42:52] Starting resources...
+[2021-11-28 11:42:52] Server minclientversion is now 1.5.7-9.19626
+[2021-11-28 11:42:52] Server started and is ready to accept connections!
+[2021-11-28 11:42:52] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-11-28 11:42:52] Type 'help' for a list of commands.
+[2021-11-28 11:42:53] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21024.1)
+[2021-11-28 11:42:53] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-11-28 11:51:21] QUIT: SolidShock left the game [Quit]
+[2021-11-28 11:51:22] Server stopped!
+[2021-11-28 11:51:22] Stopping resources..........
+[2021-11-28 11:51:22] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-02 15:07:15] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-12-02 15:07:20] Resources: 197 loaded, 0 failed
+[2021-12-02 15:07:20] Starting resources...
+[2021-12-02 15:07:20] Server minclientversion is now 1.5.7-9.19626
+[2021-12-02 15:07:20] Server started and is ready to accept connections!
+[2021-12-02 15:07:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-12-02 15:07:20] Type 'help' for a list of commands.
+[2021-12-02 15:07:20] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21024.1)
+[2021-12-02 15:07:21] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-12-02 15:09:10] start: Requested by SolidShock(guest)
+[2021-12-02 15:09:10] Starting solids_barrier_mapping
+[2021-12-02 15:09:10] edf\edf.lua:134: Going to represent map solids_barrier_mapping
+[2021-12-02 15:11:10] QUIT: SolidShock left the game [Quit]
+[2021-12-02 15:11:11] Server stopped!
+[2021-12-02 15:11:11] Stopping resources...........
+[2021-12-02 15:11:11] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-13 10:49:20] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-12-13 10:49:20] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-13 10:49:21] ERROR: Problem with resource: assault; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: briefcaserace; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: ctf; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: ctf-bombsite; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: ctf-canals; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: ctf-hydrastrike; 
+[2021-12-13 10:49:21] ERROR: Problem with resource: ctf-tbd; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: ctv; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: deathmatch; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: editor; 
+[2021-12-13 10:49:21] ERROR: Problem with resource: editor_main; Failed to link to freecam
+[2021-12-13 10:49:21] ERROR: Problem with resource: fallout; Failed to link to freecam
+[2021-12-13 10:49:21] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\freecam"
+                  Path #2: "resources\[editor]\freecam"
+[2021-12-13 10:49:21] ERROR: Not processing resource 'gps' as it has duplicates on different paths:
+                  Path #1: "resources\gps"
+                  Path #2: "resources\[gameplay]\gps"
+[2021-12-13 10:49:21] ERROR: Problem with resource: hay; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[dev]\ipb"
+[2021-12-13 10:49:21] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\parachute"
+                  Path #2: "resources\[gameplay]\parachute"
+[2021-12-13 10:49:21] ERROR: Problem with resource: race; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[dev]\runcode"
+[2021-12-13 10:49:21] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\scoreboard"
+                  Path #2: "resources\[gameplay]\scoreboard"
+[2021-12-13 10:49:21] ERROR: Problem with resource: scores; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Not processing resource 'sfxbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[dev]\sfxbrowser"
+                  Path #2: "resources\[gameplay]\sfxbrowser"
+[2021-12-13 10:49:21] ERROR: Problem with resource: stealth; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: tdm; Failed to link to scoreboard
+[2021-12-13 10:49:21] ERROR: Problem with resource: tdma; Failed to link to scoreboard
+[2021-12-13 10:49:21] Resources: 318 loaded, 18 failed
+[2021-12-13 10:49:21] Starting resources...
+[2021-12-13 10:49:21] Server minclientversion is now 1.5.7-9.19626
+[2021-12-13 10:49:22] ERROR: Couldn't find resource ipb. Check it exists.
+[2021-12-13 10:49:22] ERROR: Couldn't find resource parachute. Check it exists.
+[2021-12-13 10:49:22] Server started and is ready to accept connections!
+[2021-12-13 10:49:22] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-12-13 10:49:22] Type 'help' for a list of commands.
+[2021-12-13 10:49:22] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21046.0)
+[2021-12-13 10:49:22] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-12-13 10:49:22] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-12-13 10:49:57] QUIT: SolidShock left the game [Quit]
+[2021-12-13 10:49:58] Server stopped!
+[2021-12-13 10:49:58] Stopping resources........
+[2021-12-13 10:49:58] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-13 10:50:01] Server stopped!
+[2021-12-13 10:50:01] Stopping resources...
+[2021-12-13 10:50:01] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-13 10:50:01] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-12-13 10:50:02] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-13 10:50:03] ERROR: Problem with resource: assault; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: briefcaserace; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: ctf; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: ctf-bombsite; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: ctf-canals; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: ctf-hydrastrike; 
+[2021-12-13 10:50:03] ERROR: Problem with resource: ctf-tbd; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: ctv; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: deathmatch; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: editor; 
+[2021-12-13 10:50:03] ERROR: Problem with resource: editor_main; Failed to link to freecam
+[2021-12-13 10:50:03] ERROR: Problem with resource: fallout; Failed to link to freecam
+[2021-12-13 10:50:03] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\freecam"
+                  Path #2: "resources\[editor]\freecam"
+[2021-12-13 10:50:03] ERROR: Not processing resource 'gps' as it has duplicates on different paths:
+                  Path #1: "resources\gps"
+                  Path #2: "resources\[gameplay]\gps"
+[2021-12-13 10:50:03] ERROR: Problem with resource: hay; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[dev]\ipb"
+[2021-12-13 10:50:03] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\parachute"
+                  Path #2: "resources\[gameplay]\parachute"
+[2021-12-13 10:50:03] ERROR: Problem with resource: race; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[dev]\runcode"
+[2021-12-13 10:50:03] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\scoreboard"
+                  Path #2: "resources\[gameplay]\scoreboard"
+[2021-12-13 10:50:03] ERROR: Problem with resource: scores; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Not processing resource 'sfxbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[dev]\sfxbrowser"
+                  Path #2: "resources\[gameplay]\sfxbrowser"
+[2021-12-13 10:50:03] ERROR: Problem with resource: stealth; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: tdm; Failed to link to scoreboard
+[2021-12-13 10:50:03] ERROR: Problem with resource: tdma; Failed to link to scoreboard
+[2021-12-13 10:50:03] Resources: 318 loaded, 18 failed
+[2021-12-13 10:50:03] Starting resources...
+[2021-12-13 10:50:03] Server minclientversion is now 1.5.7-9.19626
+[2021-12-13 10:50:03] ERROR: Couldn't find resource ipb. Check it exists.
+[2021-12-13 10:50:03] ERROR: Couldn't find resource parachute. Check it exists.
+[2021-12-13 10:50:03] Server started and is ready to accept connections!
+[2021-12-13 10:50:03] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-12-13 10:50:03] Type 'help' for a list of commands.
+[2021-12-13 10:50:03] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21046.0)
+[2021-12-13 10:50:03] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-12-13 10:50:03] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-12-13 10:50:20] QUIT: SolidShock left the game [Quit]
+[2021-12-13 10:50:21] Server stopped!
+[2021-12-13 10:50:21] Stopping resources........
+[2021-12-13 10:50:21] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-15 08:57:15] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-12-15 08:57:18] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-15 08:57:24] ERROR: Problem with resource: assault; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: briefcaserace; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: ctf; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: ctf-bombsite; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: ctf-canals; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: ctf-hydrastrike; 
+[2021-12-15 08:57:24] ERROR: Problem with resource: ctf-tbd; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: ctv; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: deathmatch; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: editor; 
+[2021-12-15 08:57:24] ERROR: Problem with resource: editor_main; Failed to link to freecam
+[2021-12-15 08:57:24] ERROR: Problem with resource: fallout; Failed to link to freecam
+[2021-12-15 08:57:24] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\freecam"
+                  Path #2: "resources\[editor]\freecam"
+[2021-12-15 08:57:24] ERROR: Not processing resource 'gps' as it has duplicates on different paths:
+                  Path #1: "resources\gps"
+                  Path #2: "resources\[gameplay]\gps"
+[2021-12-15 08:57:24] ERROR: Problem with resource: hay; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[dev]\ipb"
+[2021-12-15 08:57:24] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\parachute"
+                  Path #2: "resources\[gameplay]\parachute"
+[2021-12-15 08:57:24] ERROR: Problem with resource: race; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[dev]\runcode"
+[2021-12-15 08:57:24] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\scoreboard"
+                  Path #2: "resources\[gameplay]\scoreboard"
+[2021-12-15 08:57:24] ERROR: Problem with resource: scores; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Not processing resource 'sfxbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[dev]\sfxbrowser"
+                  Path #2: "resources\[gameplay]\sfxbrowser"
+[2021-12-15 08:57:24] ERROR: Problem with resource: stealth; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: tdm; Failed to link to scoreboard
+[2021-12-15 08:57:24] ERROR: Problem with resource: tdma; Failed to link to scoreboard
+[2021-12-15 08:57:24] Resources: 318 loaded, 18 failed
+[2021-12-15 08:57:24] Starting resources...
+[2021-12-15 08:57:24] Server minclientversion is now 1.5.7-9.19626
+[2021-12-15 08:57:24] ERROR: Couldn't find resource ipb. Check it exists.
+[2021-12-15 08:57:24] ERROR: Couldn't find resource parachute. Check it exists.
+[2021-12-15 08:57:24] Server started and is ready to accept connections!
+[2021-12-15 08:57:24] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-12-15 08:57:24] Type 'help' for a list of commands.
+[2021-12-15 08:57:24] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21048.0)
+[2021-12-15 08:57:25] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-12-15 08:57:25] WARNING: edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-12-15 08:58:00] QUIT: SolidShock left the game [Quit]
+[2021-12-15 08:58:00] Server stopped!
+[2021-12-15 08:58:00] Stopping resources........
+[2021-12-15 08:58:00] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-15 08:59:46] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-12-15 08:59:47] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-15 08:59:48] ERROR: Problem with resource: assault; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: briefcaserace; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: ctf; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: ctf-bombsite; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: ctf-canals; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: ctf-hydrastrike; 
+[2021-12-15 08:59:48] ERROR: Problem with resource: ctf-tbd; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: ctv; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: deathmatch; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: editor; 
+[2021-12-15 08:59:48] ERROR: Problem with resource: editor_main; Failed to link to freecam
+[2021-12-15 08:59:48] ERROR: Problem with resource: fallout; Failed to link to freecam
+[2021-12-15 08:59:48] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\freecam"
+                  Path #2: "resources\[editor]\freecam"
+[2021-12-15 08:59:48] ERROR: Not processing resource 'gps' as it has duplicates on different paths:
+                  Path #1: "resources\gps"
+                  Path #2: "resources\[gameplay]\gps"
+[2021-12-15 08:59:48] ERROR: Problem with resource: hay; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[dev]\ipb"
+[2021-12-15 08:59:48] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\parachute"
+                  Path #2: "resources\[gameplay]\parachute"
+[2021-12-15 08:59:48] ERROR: Problem with resource: race; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[dev]\runcode"
+[2021-12-15 08:59:48] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\scoreboard"
+                  Path #2: "resources\[gameplay]\scoreboard"
+[2021-12-15 08:59:48] ERROR: Problem with resource: scores; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Not processing resource 'sfxbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[dev]\sfxbrowser"
+                  Path #2: "resources\[gameplay]\sfxbrowser"
+[2021-12-15 08:59:48] ERROR: Problem with resource: stealth; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: tdm; Failed to link to scoreboard
+[2021-12-15 08:59:48] ERROR: Problem with resource: tdma; Failed to link to scoreboard
+[2021-12-15 08:59:48] Resources: 318 loaded, 18 failed
+[2021-12-15 08:59:48] Starting resources...
+[2021-12-15 08:59:48] Server minclientversion is now 1.5.7-9.19626
+[2021-12-15 08:59:48] ERROR: Couldn't find resource ipb. Check it exists.
+[2021-12-15 08:59:48] ERROR: Couldn't find resource parachute. Check it exists.
+[2021-12-15 08:59:48] Server started and is ready to accept connections!
+[2021-12-15 08:59:48] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-12-15 08:59:48] Type 'help' for a list of commands.
+[2021-12-15 08:59:48] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21048.0)
+[2021-12-15 08:59:49] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-12-15 08:59:49] WARNING: [editor]\edf\scriptreader.lua:88: Bad argument @ 'getElementData' [Expected element at argument 1, got boolean]
+[2021-12-15 09:00:10] QUIT: SolidShock left the game [Quit]
+[2021-12-15 09:00:11] Server stopped!
+[2021-12-15 09:00:11] Stopping resources........
+[2021-12-15 09:00:11] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-15 09:02:18] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-12-15 09:02:19] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-15 09:02:20] ERROR: Problem with resource: assault; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: briefcaserace; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: ctf; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: ctf-bombsite; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: ctf-canals; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: ctf-hydrastrike; 
+[2021-12-15 09:02:20] ERROR: Problem with resource: ctf-tbd; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: ctv; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: deathmatch; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: editor; 
+[2021-12-15 09:02:20] ERROR: Problem with resource: editor_main; Failed to link to freecam
+[2021-12-15 09:02:20] ERROR: Problem with resource: fallout; Failed to link to freecam
+[2021-12-15 09:02:20] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\freecam"
+                  Path #2: "resources\[editor]\freecam"
+[2021-12-15 09:02:20] ERROR: Not processing resource 'gps' as it has duplicates on different paths:
+                  Path #1: "resources\gps"
+                  Path #2: "resources\[gameplay]\gps"
+[2021-12-15 09:02:20] ERROR: Problem with resource: hay; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[dev]\ipb"
+[2021-12-15 09:02:20] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\parachute"
+                  Path #2: "resources\[gameplay]\parachute"
+[2021-12-15 09:02:20] ERROR: Problem with resource: race; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[dev]\runcode"
+[2021-12-15 09:02:20] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\scoreboard"
+                  Path #2: "resources\[gameplay]\scoreboard"
+[2021-12-15 09:02:20] ERROR: Problem with resource: scores; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Not processing resource 'sfxbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[dev]\sfxbrowser"
+                  Path #2: "resources\[gameplay]\sfxbrowser"
+[2021-12-15 09:02:20] ERROR: Problem with resource: stealth; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: tdm; Failed to link to scoreboard
+[2021-12-15 09:02:20] ERROR: Problem with resource: tdma; Failed to link to scoreboard
+[2021-12-15 09:02:20] Resources: 318 loaded, 18 failed
+[2021-12-15 09:02:20] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-12-15 09:02:20] Server stopped!
+[2021-12-15 09:02:20] Stopping resources...
+[2021-12-15 09:02:20] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-15 09:03:39] Resource 'acpanel' requests some acl rights. Use the command 'aclrequest list acpanel'
+[2021-12-15 09:03:40] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-15 09:03:41] ERROR: Problem with resource: assault; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: briefcaserace; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: ctf; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: ctf-bombsite; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: ctf-canals; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: ctf-hydrastrike; 
+[2021-12-15 09:03:41] ERROR: Problem with resource: ctf-tbd; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: ctv; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: deathmatch; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: editor; 
+[2021-12-15 09:03:41] ERROR: Problem with resource: editor_main; Failed to link to freecam
+[2021-12-15 09:03:41] ERROR: Problem with resource: fallout; Failed to link to freecam
+[2021-12-15 09:03:41] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\freecam"
+                  Path #2: "resources\[editor]\freecam"
+[2021-12-15 09:03:41] ERROR: Not processing resource 'gps' as it has duplicates on different paths:
+                  Path #1: "resources\gps"
+                  Path #2: "resources\[gameplay]\gps"
+[2021-12-15 09:03:41] ERROR: Problem with resource: hay; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[dev]\ipb"
+[2021-12-15 09:03:41] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\parachute"
+                  Path #2: "resources\[gameplay]\parachute"
+[2021-12-15 09:03:41] ERROR: Problem with resource: race; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[dev]\runcode"
+[2021-12-15 09:03:41] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\scoreboard"
+                  Path #2: "resources\[gameplay]\scoreboard"
+[2021-12-15 09:03:41] ERROR: Problem with resource: scores; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Not processing resource 'sfxbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[dev]\sfxbrowser"
+                  Path #2: "resources\[gameplay]\sfxbrowser"
+[2021-12-15 09:03:41] ERROR: Problem with resource: stealth; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: tdm; Failed to link to scoreboard
+[2021-12-15 09:03:41] ERROR: Problem with resource: tdma; Failed to link to scoreboard
+[2021-12-15 09:03:41] Resources: 318 loaded, 18 failed
+[2021-12-15 09:03:41] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-12-15 09:03:41] Server stopped!
+[2021-12-15 09:03:41] Stopping resources...
+[2021-12-15 09:03:41] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-15 09:05:54] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-15 09:05:55] ERROR: Problem with resource: editor; 
+[2021-12-15 09:05:55] ERROR: Problem with resource: editor_main; Failed to link to freecam
+[2021-12-15 09:05:55] ERROR: Problem with resource: fallout; Failed to link to freecam
+[2021-12-15 09:05:55] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\freecam"
+                  Path #2: "resources\[editor]\freecam"
+[2021-12-15 09:05:55] Resources: 337 loaded, 3 failed
+[2021-12-15 09:05:55] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-12-15 09:05:56] Server stopped!
+[2021-12-15 09:05:56] Stopping resources...
+[2021-12-15 09:05:56] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-15 09:06:28] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-15 09:06:29] Resources: 342 loaded, 0 failed
+[2021-12-15 09:06:29] ERROR: Could not bind the server on interface '' and port '22010'!
+[2021-12-15 09:06:30] Server stopped!
+[2021-12-15 09:06:30] Stopping resources...
+[2021-12-15 09:06:30] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-15 09:07:47] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-15 09:07:48] Resources: 342 loaded, 0 failed
+[2021-12-15 09:07:48] Starting resources...
+[2021-12-15 09:07:49] Server minclientversion is now 1.5.7-9.19626
+[2021-12-15 09:07:49] Server started and is ready to accept connections!
+[2021-12-15 09:07:49] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-12-15 09:07:49] Type 'help' for a list of commands.
+[2021-12-15 09:07:49] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21048.0)
+[2021-12-15 09:07:50] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-12-15 09:21:38] QUIT: SolidShock left the game [Quit]
+[2021-12-15 09:21:39] Server stopped!
+[2021-12-15 09:21:39] Stopping resources..........
+[2021-12-15 09:21:39] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.9
+==================================================================
+= Server name      : Map Editor Server
+= Server IP address: auto
+= Server port      : 22010
+= 
+= Log file         : ..rver/mods/deathmatch/logs/editor_server.log
+= Maximum players  : 1
+= HTTP port        : 22011
+= Voice Chat       : Disabled
+= Bandwidth saving : None
+==================================================================
+[2021-12-22 16:21:42] Resource 'guied' requests some acl rights. Use the command 'aclrequest list guied'
+[2021-12-22 16:21:48] Resources: 345 loaded, 0 failed
+[2021-12-22 16:21:48] Starting resources...
+[2021-12-22 16:21:48] Server minclientversion is now 1.5.7-9.19626
+[2021-12-22 16:21:48] Server started and is ready to accept connections!
+[2021-12-22 16:21:48] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-12-22 16:21:48] Type 'help' for a list of commands.
+[2021-12-22 16:21:48] CONNECT: SolidShock connected (IP: 127.0.0.1  Serial: 018FD49521BD034DD2BE1FFC72AA4B43  Version: 1.5.9-9.21048.0)
+[2021-12-22 16:21:49] JOIN: SolidShock joined the game (IP: 127.0.0.1)
+[2021-12-22 16:23:11] Starting freeroam
+[2021-12-22 16:23:11] startResource: Resource 'freeroam' started
+[2021-12-22 16:23:11] Resource 'editor_test' changed, reloading and starting
+[2021-12-22 16:23:11] Starting editor_test
+[2021-12-22 16:23:11] startResource: Resource 'editor_test' started
+[2021-12-22 16:25:10] Stopping freeroam
+[2021-12-22 16:25:10] Stopping editor_test
+[2021-12-22 16:25:19] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:25:39] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:25:44] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:25:50] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:25:50] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:26:36] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:26:38] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:26:57] Starting freeroam
+[2021-12-22 16:26:57] startResource: Resource 'freeroam' started
+[2021-12-22 16:26:57] Resource 'editor_test' changed, reloading and starting
+[2021-12-22 16:26:57] Starting editor_test
+[2021-12-22 16:26:57] startResource: Resource 'editor_test' started
+[2021-12-22 16:28:07] Stopping freeroam
+[2021-12-22 16:28:07] Stopping editor_test
+[2021-12-22 16:29:17] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:29:40] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:29:46] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:30:01] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:30:07] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:30:26] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:30:39] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:30:52] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:31:50] Starting freeroam
+[2021-12-22 16:31:50] startResource: Resource 'freeroam' started
+[2021-12-22 16:31:50] Resource 'editor_test' changed, reloading and starting
+[2021-12-22 16:31:50] Starting editor_test
+[2021-12-22 16:31:50] startResource: Resource 'editor_test' started
+[2021-12-22 16:32:19] Stopping freeroam
+[2021-12-22 16:32:19] Stopping editor_test
+[2021-12-22 16:33:04] WARNING: [editor]\edf\edf.lua:626: Expected positive value, got negative. This warning may be an error in future versions.
+[2021-12-22 16:35:08] Starting freeroam
+[2021-12-22 16:35:08] startResource: Resource 'freeroam' started
+[2021-12-22 16:35:08] Resource 'editor_test' changed, reloading and starting
+[2021-12-22 16:35:08] Starting editor_test
+[2021-12-22 16:35:08] startResource: Resource 'editor_test' started
+[2021-12-22 16:36:26] Stopping freeroam
+[2021-12-22 16:36:26] Stopping editor_test
+[2021-12-22 16:36:29] QUIT: SolidShock left the game [Quit]
+[2021-12-22 16:36:30] Server stopped!
+[2021-12-22 16:36:30] Stopping resources..........
+[2021-12-22 16:36:30] Closing SQLite3 database

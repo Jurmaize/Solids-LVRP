@@ -1,0 +1,9 @@
+<meta>
+     <info author="Solid" type="script" name="Solids Epic sweeper script!" description="This is a sweeper script for MTA. Super basic shiz." date="23/11/2021" />
+
+     <script src="config_sweeper.lua" type="shared" />
+     <script src="s_sweeper.lua" type="server" />
+     <script src="c_sweeper.lua" type="client" />
+
+     <file src="blips/sweeper.png" />
+</meta>
