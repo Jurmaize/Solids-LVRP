@@ -1,10 +1,12 @@
-# Solids Latvian MTA Roleplay respository.
+# Solids Latvian Multi Theft Auto Roleplay respository.
 
-This MTA Gamemode repository is based on the 2021. Owlgaming MTA roleplay repository that can be found here: [Owlgamings Repository](https://github.com/OwlGamingCommunity/MTA)
+This MTA Gamemode repository is based on the 2021. Owlgaming Multi Theft Auto Roleplay repository that can be found here: [Owlgamings Repository](https://github.com/OwlGamingCommunity/MTA)
 Credits for all the base systems go to them! @OwlGamingCommunity
 
 ## What is this repository?
-This is my personal repository, that I had worked on for a couple of months. Fixing various bugs, making some of my own scripts as well as translating most of the scripts that already existed here.
+This is my personal Multi Theft Auto Roleplay repository, that I had worked on for a couple of months. Fixing various bugs, making some of my own scripts as well as translating most of the scripts that already existed here.
+
+It's main purpose is to provide the Latvian Multi Theft Auto Roleplay community a good base gamemode to later expand on. As of making this repository, most servers use outdated and error-filled gamemodes. This one will hopefully help everyone out.
 
 This repository includes an exported sql database, that can easily be imported in a database of your own. Some generic information to help set-up the server quicker has been left in.
 
@@ -39,7 +41,7 @@ Even translating something would be nice. :)
 <details><summary>Q: Can I find out all of the commands in the server anywhere?</summary>
 <p>A: I had the plan of documenting every single one of them, but I sadly couldn't finish it, but you can see a portion of them on the gamemodes excel spreadsheet: https://docs.google.com/spreadsheets/d/17WtGZWJ-rwZzZzMzWKVC8dCVBawsvnhLIc4JaI9tRoQ/edit?usp=sharing</p>
 </details>
-<details><summary>Q: Is the economy already good in the gamemode?</summary>
+<details><summary>Q: Is the economy already well-made in the gamemode?</summary>
 <p>A: The majority has been already done and checked. A few small things like NPC store prices need to be checked. Stuff like cars aren't included in the gamemode, so you'll have to make sure yourself that the vehicles players can purchase aren't overpriced or too cheap. Most of the economics have been documented on the excel: https://docs.google.com/spreadsheets/d/17WtGZWJ-rwZzZzMzWKVC8dCVBawsvnhLIc4JaI9tRoQ/edit?usp=sharing</p>
 </details>
 <details><summary>Q: What are the logos in the gamemode already?</summary>
@@ -51,3 +53,5 @@ Even translating something would be nice. :)
 Base Owl gaming credits go to the @OwlGamingCommunity.
 
 Big thanks go to: SanityKiller#4435 & Jurmaize#7464, old PowerPlay Latvian community for helping me test the gamemodes scripts, creating some of the logos in the gamemode and other small things.
+
+Thanks goes out to the Multi Theft Auto developers for giving us an epic platform to play on! Check out their GitHub Organization here: [MTA Github organization](https://github.com/multitheftauto)
